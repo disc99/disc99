@@ -15,7 +15,12 @@
   </a>
 </p>
 
-[![disc99 github stats](https://github-readme-stats.vercel.app/api?username=disc99)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/disc99">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=disc99&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/disc99">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disc99" />
+</a>
 
 
 <!--
